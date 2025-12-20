@@ -1,0 +1,14 @@
+{
+  "name": "bywhen",
+  "version": "1.0.0",
+  "description": "CLI deadline tracker",
+  "type": "module",
+  "bin": {
+    "bywhen": "bywhen.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
+
